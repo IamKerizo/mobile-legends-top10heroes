@@ -1,0 +1,99 @@
+    .desc,yes,no {
+      width: 220px;
+      display: inline-block;
+      vertical-align: middle;
+    }
+    
+    .google-logo {
+      width: 200px;
+      height: 80px;
+      margin-left: 100px;
+      margin-bottom: 0px;
+      object-fit: cover;
+    }
+    .search-google {
+      width: 370px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 10px;
+      border-style: none;
+      box-shadow: 0px 0px 6px rgba(0,0,0,0.3);
+      border-radius: 20px;
+      margin-top: 0px;
+      margin-bottom: 20px;
+    }
+    .first, {
+      width: 100px;
+      padding-right: 10px;
+    }
+    input {
+      width: 100px;
+      padding-top: 8px;
+      padding-bottom: 8px;
+      padding-left: 10px;
+      padding-right: 10px;
+      border-radius: 5px;
+      border-style: solid;
+      border-width: 1px;
+      
+    }
+    .email-text {
+      width: 227px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    .up {
+      padding-right: 98px;
+      padding-left: 98px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      background-color: skyblue;
+      color: white;
+      font-weight: bold;
+      border-style: none;
+      border-radius: 5px;
+      font-size: 15px;
+      
+    }
+    .req {
+      font-family: Arial;
+      font-size: 30px;
+      margin-bottom: 0px;
+    }
+    .pick {
+      margin-top: 20px;
+      width: 270px;
+      margin-bottom: 8px;
+      padding-top: 13px;
+      padding-bottom: 13px;
+      border-radius: 0px;
+      background-color: rgba( 1, 1, 1, 0.1);
+      border-style: none;
+    }
+    .destination {
+       width: 270px;
+       padding-top: 13px;
+      padding-bottom: 13px;
+      border-radius: 0px;
+      background-color: rgba( 1, 1, 1, 0.1);
+      border-style: none; 
+      margin-bottom: 30px;
+     }
+     .now {
+       border-style: none;
+       background-color: black;
+       color: white ;
+       padding-top: 10px;
+       padding-bottom: 10px;
+       padding-right: 20px;
+       padding-left: 20px;
+     }
+     .later {
+       padding-top: 12px;
+       padding-bottom: 12px;
+       padding-right: 22px;
+       padding-left: 22px;
+       border-style: none;
+       background-color: rgba( 1, 1, 1, 0.1);
+       margin-left: 8px;
+     }

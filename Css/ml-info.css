@@ -1,0 +1,89 @@
+.information-hero-container {
+      width: 800px;
+      height: 250px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+      align-items: center;
+      border: #0083a4 solid 1px;
+    }
+    .hero-pic-container {
+    }
+    .hero-pic {
+      width: 200px;
+      border-radius: 30px;
+      box-shadow: 0px 0px 20px rgba(0,0,0,0.7);
+    }
+    .skill-pics {
+      height: 250px;
+      width: 50px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .skill-hero-container {
+      width: 50px;
+      height: 250px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .edit-skills {
+      width: 50px;
+      box-shadow:0px 0px 10px rgba(0,0,0,0.7);
+      border-radius: 25px;
+    }
+    .description-hero-skill {
+      height: 250px;
+      width: 400px;
+      display: Flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    
+    .passive-desc {
+      height: 50px;
+    }
+    .first-desc {
+      height: 50px;
+    }
+    .second-desc {
+      height: 50px;
+    }
+    .ult-desc {
+      height: 50px;
+    }
+    
+    .skill-name {
+      font-weight: 700;
+      font-style: italic;
+      color: #005165;
+    }
+    .skill-description {
+      font-size: 8px;
+    }
+    .leoponts {
+      font-size: 12px;
+    }
+    .leosecond {
+      font-size: 9px;
+    }
+    .guspassive {
+      font-size: 9px;
+    }
+    .paqpassive {
+      font-size: 8px;
+    }
+    .choufirst {
+      font-size: 12px;
+    }
+    .karinaponts {
+      font-size: 9px;
+    }
+    .yssponts {
+      font-size: 9px;
+    }
+    .rank {
+      font-family: 'Roboto', Arial;
+      color: #165f9e;
+    }
